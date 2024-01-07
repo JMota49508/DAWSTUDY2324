@@ -8,14 +8,19 @@ Escolha múltipla:
 
 ---
 2)
-
+@Component e @Bean
 
 ---
 3)
-
+O passo de construção em desenvolvimento de aplicações para execução em browser é crucial para garantir que o código 
+seja otimizado, compatível e seguro antes de ser entregue ao navegador. Este passo garante então a compatibilidade, 
+segurança e desempenho em diversos navegadores e também uma melhor gerência de dependências e que recursos devem ou não
+ser carregados.
 
 ---
 4)
-
+Seria necessário utilizar, por exemplo, um React Router para ser possível configurar as rotas da aplicação e manipular a
+navegação entre as páginas. Seria também necessário criar componentes capazes de atualizar o seu conteúdo 
+automaticamente sem haver a necessidade de recarregar a página.
 
 ---

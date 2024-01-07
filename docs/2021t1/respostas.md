@@ -30,6 +30,6 @@ de funcionar de uma forma otimizada.
 4) 
 O propósito principal do sistema NPM é facilitar a gestão, instalação e distribuição de pacotes de software 
 (bibliotecas, frameworks e utils) que podem ser usados no desenvolvimento de projetos. O sistema NPM também é um 
-essencial para o controlo de versões de pacotes de software e geretão de dependências entre pacotes.
+essencial para o controlo de versões de pacotes de software e gestão de dependências entre pacotes.
 
 ---

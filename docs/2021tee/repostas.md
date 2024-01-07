@@ -8,14 +8,31 @@ Escolha múltipla:
 
 ---
 2)
-
+O uso de `Hypermedia` nas representações dos recursos de uma API HTTP promove uma melhor organização, compreensão e 
+facilidade de navegação por parte dos clientes dessa API e também proporciona uma maior flexibilidade na manutenção e 
+evolução da API ao longo do tempo.
 
 ---
 3)
+Servlet Filter:
+- É usado para interceptar e processar pedidos antes de enviá-las ao dispatcher servlet.
+- Manipular pedidos e respostas antes e depois de serem processados pelo dispatcher servlet.
 
+Handler Interceptor:
+- É usado para interceptar e processar solicitações antes de enviá-las aos controllers.
+- Podem ser usados para pré e pós processamento de pedidos.
+- Pode ser associado a controllers específicos não interferindo com os restantes.
+- Tem uma fácil configuração no Spring MVC.
 
 ---
-4)
+4) 
+Propósito do Webpack:
+- Facilita o processo de construção de aplicações web.
+- Otimiza os recursos, a gestão de depêndencias e organização de código da aplicação web.
 
+Forma de utilização do Webpack:
+- Configuração a partir de um ficheiro configuração `webpack.config.js`.
+- Instalação e execução via NPM.
+- Plugins e Loaders para estender as suas funcionalidades.
 
 ---
