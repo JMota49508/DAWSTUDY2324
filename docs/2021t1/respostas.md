@@ -1,0 +1,35 @@
+Escolha múltipla:
+- 1.1) ii. Apenas nas mensagens de resposta.
+- 1.2) iii. Um pedido idempotente e safe.
+- 1.3) iv. Uma vez por cada instância da aplicação.
+- 1.4) i. Erro de execução, porque a função require não está definida.
+- 1.5) iii. Na realização de um pedido HTTP de método GET para o caminho ‘/projects’.
+- 1.6) iv. Nenhuma das anteriores.
+
+---
+2) 
+Main differences between links and actions:
+- Links:
+  - Represent navigational transitions. 
+  - Has rel attribute but doesn't have method.
+- Actions:
+  - Show available behaviors an entity exposes.
+  - Has method attribute but doesn't have rel.
+
+---
+3) 
+A relação entre **negociação de conteúdo** e **caching**, no contexto do protocolo HTTP, está relacionada à gestão eficiente de 
+versões diferentes de um recurso e à entrega apropriada dessas versões aos clientes. 
+Isto acontece porque, a **negociação de conteúdo** pode criar variações em como os recursos são representados, e o sistema 
+de cache precisa ser capaz de lidar com essas variações para entregar o conteúdo apropriado aos diferentes clientes.
+Para essa gestão ser possível é incluido nas mensagens HTTP o header `Vary` para indicar
+quais foram os headers que foram usados na **negociação do conteúdo**, o uso desse header faz com que o sistema de caching seja capaz
+de funcionar de uma forma otimizada.
+
+---
+4) 
+O propósito principal do sistema NPM é facilitar a gestão, instalação e distribuição de pacotes de software 
+(bibliotecas, frameworks e utils) que podem ser usados no desenvolvimento de projetos. O sistema NPM também é um 
+essencial para o controlo de versões de pacotes de software e geretão de dependências entre pacotes.
+
+---
